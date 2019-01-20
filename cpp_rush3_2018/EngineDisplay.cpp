@@ -65,7 +65,7 @@ void display_name(sf::RenderWindow *window)
 {
     display_text2(window, window_name, 10, 330, 65);
     display_text2(window, "Gkrellm, C++ monitoring program", 470, 110, 40);
-    display_text2(window, "Alexandre Frydman - Jesuyon Zanklan - Sofiane Lechani - Vincent Houri", 550, 50, 20);
+    display_text2(window, "Alexandre - Jesuyon - Sofiane - Vincent", 550, 50, 20);
 }
 
 void display_graphCPU4(sf::RenderWindow *window, EngineInfos const & infos)
